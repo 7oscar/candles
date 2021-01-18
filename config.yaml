@@ -47,14 +47,13 @@ params:
   search: true
   author: Themefisher
   author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  mobile: "+90 000 333 22"
-  email: exmaple@ymail.com
-  address: 6 rip carl Avenue CA 90733
+  bio: Premier handmade Australian soy candles
+  mobile: "+61 0421172586"
+  email: devinesecretcandles@gmail.com
+  address: 62 Eliza Cct Port Macquarie NSW 2444
   contact_form_action: "#"
   google_analitycs_id: Your ID
-  copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
+  copyright: Copyright &copy; 2021 Devine Secrets
   instafeed:
     enable: true
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn

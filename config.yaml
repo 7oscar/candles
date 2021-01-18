@@ -68,6 +68,9 @@ params:
     URL: "#"
 menu:
   main:
+  - name: Candles
+    URL: ''
+    weight: ''
   - name: About
     URL: about
     weight: "2"

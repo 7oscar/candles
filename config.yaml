@@ -14,8 +14,8 @@ module:
       target: static
     - source: exampleSite/static/images
       target: static/images
-summaryLength: "10"
-paginate: "6"
+summaryLength: '10'
+paginate: '6'
 outputs:
   home:
   - HTML
@@ -41,7 +41,7 @@ params:
     - link: plugins/search/search.js
   logo: images/logo.png
   home: Home
-  layout: "1"
+  layout: '1'
   description: Devine Secrets premier Australian soy candles
   preloader: true
   search: true
@@ -73,7 +73,8 @@ menu:
     weight: ''
   - name: About
     URL: about
-    weight: "2"
+    weight: '2'
   - name: Contact
     URL: contact
-    weight: "3"
+    weight: '3'
+description: Devine Secrets premier Australian made aromatic candles and melts
